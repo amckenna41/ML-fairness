@@ -1,4 +1,4 @@
-# csc4009-FIP-ML
+# Fairness, Interpretability and Privacy in Machine Learning
 Analysing fairness, bias and privacy in Machine Learning through the census-income dataset for CSC4009 Comp Sci module.
 
 Dataset
